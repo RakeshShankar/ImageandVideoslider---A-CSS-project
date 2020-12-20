@@ -222,6 +222,14 @@ ul li:hover{
       width: 600px;
       height: 375px;
     }
+
+    .img-slider .slide img{
+            z-index: 1;
+            width: 600px;
+            height: 375px;
+            border-radius: 10px;
+      }  
+
   
     .img-slider .slide .info{
       padding: 10px 25px;
@@ -260,13 +268,13 @@ ul li:hover{
     
     .img-slider{
       width: 600px;
-      height: 800px;
+      height: 750px;
     }
 
     .img-slider .slide img{
             z-index: 1;
             width: 600px;
-            height: 800px;
+            height: 700px;
             border-radius: 10px;
       }  
 
